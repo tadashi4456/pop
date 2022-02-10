@@ -1,0 +1,22 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.pk{
+	width:202px;
+	margin-top: 250px;
+
+}
+.pk a{
+	color: black;
+	font-size: 33px;
+	text-decoration: none;
+}
+
+.fa{
+	margin-left: 3px;
+	color:cyan ;
+}
+.fa:hover{
+	margin-right: 20px;
+}

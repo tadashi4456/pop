@@ -1,0 +1,222 @@
+body{
+	background-image: url("http://hdqwalls.com/download/blur-dark-pink-4k-2048x1152.jpg");
+	background-repeat: no-repeat;
+	background-size:auto;
+	background-attachment: fixed;
+}
+.pk ul{
+	
+	display: inline-flex;
+	list-style: none;
+	text-align: center;
+	border-radius: 22px;
+}
+.pk ul li{
+
+	height: 1px;
+	width:180px;
+	margin-top:-56px;
+	padding: 65px;
+}
+.pk ul li a{
+	border-radius: 9px;
+	border-left: 3px solid black;
+	border-bottom: 3px solid black;
+	text-decoration: none;
+	font-family: calibri;
+	font-size: 33px;
+	color: white;
+
+}
+.pk ul li a:hover{
+	background-color: ghostwhite;
+	color: black;
+	border-radius: 3px;
+	padding: 6px;
+}
+.p{
+	border-left: 1px solid violet;
+	padding-left: 3px;
+	margin-top: 375px;
+	margin-left: 100px;
+}
+.p{
+	font-family:Copperplate Gothic Light;
+	color: white;
+	font-size: 24px;
+}
+.p h2 em{
+	color: deepskyblue;
+}
+.about{
+	border-radius: 23px;
+	color: white;
+	font-family: Engravers MT;
+	font-size: 30px;
+	width: 850px;
+	text-align: center;
+	margin-left: 60px;
+	border-left: 3px solid pink;
+	border-top: 3px solid cornflowerblue;
+	padding-left: 30px;
+	padding-top: 30px;
+}
+.about h1{
+	font-size: 25px;
+	color: white;
+	background-color: firebrick;
+}
+.p3 p{
+	color: white;
+	border-left: 3px solid powderblue;
+	border-bottom: 3px solid dimgrey;
+	border-right: 3px solid black;
+	border-radius: 19px;
+	padding-left: 12px;
+	font-family: Bahnschrift Condensed;
+	font-size: 45px;
+	margin-left: 45px;
+	margin-top: 100px;
+	width: 560px;
+}
+.p3 li{
+	font-size: 28px;
+	color: whitesmoke;
+}
+.p4 h2{
+	border-left: 4px solid blueviolet;
+	padding-left: 9px;
+}
+.p5 h2{
+	border-left: 4px solid blueviolet;
+	padding-left: 9px;
+	
+
+}
+.p3 h3:hover{
+	background-color: lightcyan;
+	color: black;
+}
+.p3 h3{
+
+border: 2px solid lightblue;
+border-radius: 30px;
+background-color: lightsteelblue;
+	font-size: 45px;
+	text-align: center;
+	font-family: Calibri;
+	color: white;
+}
+.p4{margin-left: 750px;
+	margin-top: -550px;
+	font-size: 34px;
+	color: white;
+	font-family: Bahnschrift Light;
+}
+.p5{
+	margin-left: 1510px;
+	margin-top: -550px;
+	font-size: 30px;
+	color: white;
+	font-family: Bahnschrift Light;
+}
+.p3{
+	margin-top: 100px;
+}
+.p2{
+	position: sticky;
+	top: 780px;
+}
+.p6 h3{
+	color: yellow;
+	margin-left: 11px;
+	border-left: 3px solid violet;
+	font-size: 43px;
+	padding-left: 9px;
+	font-family:Bahnschrift Light ;
+}
+.p6 p{
+
+	margin-left: 370px;
+	font-size: 43px;
+	border-radius: 26px;
+	color: whitesmoke;
+	width: 960px;
+	text-align: center;
+	
+}
+.p6{
+	border: 2px solid whitesmoke;
+	border-radius: 13px;
+}
+.p7{
+	color: whitesmoke;
+	font-size: 25px;
+	text-align: center;
+
+}
+.p7 h4{
+	text-align: left;
+	font-family: calibri;
+	color: bluevioleti;
+	padding-left: 23px;
+	border-left: 3px solid lightpink;
+}
+.p7 h2{
+	border: 3px solid white;
+	border-radius: 19px;
+	background-color: lightsteelblue;
+	color: salmon;
+	font-size: 45px;
+	font-family: Bahnschrift Light;
+}
+.p7 h2:hover{
+           background-color: lightcyan;
+           color: black;
+}
+.contact{
+	color: white;
+}
+.contact h2{
+	border-radius: 9px;
+	padding: 6px;
+	border-left: 2px solid hotpink;
+	border-bottom: 2px solid hotpink;
+	font-size: 42px;
+	color: white;
+	text-align: left;
+}
+.contact h3{
+	font-family: arial;
+	border-radius: 10px;
+	border: 3px solid black;
+   width: 210px;
+   height: 43px;
+   text-align: center;
+   font-size: 33px;
+  margin-left: 590px;
+  margin-top: 23px;
+  text-decoration: none;
+}
+.contact1{
+	color: ;
+}
+.contact1 h2{
+	font-family: arial;
+	background-color: white;
+	color: black;
+	text-align: center;
+}
+.contact address{
+	font-size: 25px;
+	text-align: center;
+}
+.contact p{
+	font-size: 25px;
+	text-align: center;
+}
+
+.contact h3 a{
+        color: whitesmoke;
+        text-decoration: none;
+}

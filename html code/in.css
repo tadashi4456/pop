@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image:url("http://digimirage.com/images/horizontal_gallery/background.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.p h1{
+  
+	font-size: 150px;
+	font-family: Copperplate Gothic Light;
+	color: aquamarine;
+	margin-top: -192px;
+	margin-left: 350px;
+	margin-right: 350px;
+  text-align:center;
+  border-radius:12px;
+  height:102px;
+}
+img{
+	width: 353px;
+	height: 90px;
+}
+.t a{
+	border: 3px solid cyan;
+	border-radius: 6px;
+	padding: 6px;
+	color: white;
+	font-family: sans-serif;
+	text-decoration: none;
+	font-size: 30px;
+	float: right;
+	margin-top: -212px;
+}
+.pp a{
+  border-left:2px solid cyan;
+	color: black;
+	background-color: white;
+	padding: 6px;
+	border-radius: 9px;
+  font-size:42px;
+	margin-left:960px;
+  text-decoration:none;
+  padding-left:9px;
+}
+
+.pk{
+	width:202px;
+	margin-top: 250px;
+
+}
+.pk a{
+	color: black;
+	font-size: 43px;
+	text-decoration: none;
+}
+
+.fa{
+	margin-left: 6px;
+	color:red;
+}
+.fa:hover{
+	margin-right: 20px;
+}
+.pp h3{
+	font-size: 53px;
+	font-family:  Copperplate Gothic Light;
+	margin-top: 95px;
+	margin-left:660px;
+	color: whitesmoke;
+	text-decoration:overline;
+}

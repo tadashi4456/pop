@@ -1,0 +1,75 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url("C:/Users/wizard/Desktop/html new/oo.jpg");
+	background-size: cover;
+}
+.pk2{
+	background-color:turquoise transparent;
+	height: 45px;
+	line-height: 17px;
+}
+ul{
+
+}
+li{
+	float: left;
+	display: block;
+	margin: 10px auto auto 10px;
+}
+a{  
+	color: white;
+	text-decoration: none;
+    font-family: arial;
+    font-size: 25px;
+    padding-left: 17px;
+    padding-right: 17px;
+    border-left: 1px solid white;
+    border-bottom: 1px solid white;
+    border-radius: 12px;
+}
+a:hover{
+	background-color:lightcyan ;
+	color: black;
+}
+.search{
+       float: right;
+       padding-top: 2px;
+       padding-right: 10px;
+}
+.search input{
+	border-radius: 15px;
+	display: block;
+	height: 29px;
+	width: 202px;
+}
+.content{
+	margin-left: 290px;
+	padding: 20px;
+}
+article{
+	color: #000;
+	font-family: Agency FB;
+	font-size: 21px;
+	border-radius: 16px;
+	border-left: 2px solid black;
+	border-right: 2px solid black;
+	width: 190px;
+	height: 500;
+	float: left;
+	margin: 90px 30px auto 50px;
+	text-align: justify;
+	padding: 22px;
+	
+}
+h1{
+	text-align: center;
+}
+article:hover{
+	background-color: lightcyan;
+	color: black;
+	margin-top: 0px;
+}
+
